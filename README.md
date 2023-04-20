@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/sketch-1b242d?style=for-the-badge&logo=sketch&logoColor=f5f5f5"/>
       <img src="https://img.shields.io/badge/next.js-1b242d?style=for-the-badge&logo=nextdotjs&logoColor=f5f5f5"/>
       <img src="https://img.shields.io/badge/React-1b242d?style=for-the-badge&logo=react&logoColor=white"/>
-      <img src="https://img.shields.io/badge/styledcomponents-1b242d?style=for-the-badge&logo=styledcomponents&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/styled_components-1b242d?style=for-the-badge&logo=styledcomponents&logoColor=f5f5f5"/>
       <img src="https://img.shields.io/badge/jest-1b242d?style=for-the-badge&logo=jest&logoColor=f5f5f5"/>
       <img src="https://img.shields.io/badge/git-1b242d?style=for-the-badge&logo=git&logoColor=f5f5f5"/>
       <img src="https://img.shields.io/badge/Node.js-1b242d?style=for-the-badge&logo=node.js&logoColor=f5f5f5"/>
@@ -24,8 +24,8 @@
       <img src="https://img.shields.io/badge/vercel-1b242d?style=for-the-badge&logo=vercel&logoColor=f5f5f5"/>
       <img src="https://img.shields.io/badge/jira-1b242d?style=for-the-badge&logo=jira&logoColor=f5f5f5"/>
       <img src="https://img.shields.io/badge/notion-1b242d?style=for-the-badge&logo=notion&logoColor=f5f5f5"/>
-    <img src="https://img.shields.io/badge/visualstudiocode-1b242d?style=for-the-badge&logo=visualstudiocode&logoColor=f5f5f5"/>
-    <img src="https://img.shields.io/badge/macos-1b242d?style=for-the-badge&logo=macos&logoColor=f5f5f5"/>
+    <img src="https://img.shields.io/badge/visual_studio_code-1b242d?style=for-the-badge&logo=visualstudiocode&logoColor=f5f5f5"/>
+    <img src="https://img.shields.io/badge/mac_os-1b242d?style=for-the-badge&logo=macos&logoColor=f5f5f5"/>
 
   </p>
 <br />

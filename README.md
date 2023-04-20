@@ -1,16 +1,46 @@
-### Hi there 👋
+<hr />
+<h4>📟  Intro</h4>
+<p>Hi, my name is James</p>
+<p>I am a Software Engineer and Designer based in Glasgow</p>
+<div>My interests lie in the intersection of technology and product development, where I am able to focus on both design and development. A passion for aesthetics always drives my desire to build beautiful interfaces, websites and/or experiences.</div>
 
-<!--
-**jamesryan-dev/jamesryan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>🪛  Stack and tooling</h4>
+  <p align = "left">
+      <img src="https://img.shields.io/badge/JavaScript-1b242d?style=for-the-badge&logo=javascript&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/CSS-1b242d?style=for-the-badge&logo=css3&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/HTML-1b242d?style=for-the-badge&logo=html5&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/figma-1b242d?style=for-the-badge&logo=figma&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/sketch-1b242d?style=for-the-badge&logo=sketch&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/next.js-1b242d?style=for-the-badge&logo=nextdotjs&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/React-1b242d?style=for-the-badge&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/styledcomponents-1b242d?style=for-the-badge&logo=styledcomponents&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/jest-1b242d?style=for-the-badge&logo=jest&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/git-1b242d?style=for-the-badge&logo=git&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/Node.js-1b242d?style=for-the-badge&logo=node.js&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/Amazon_AWS-1b242d?style=for-the-badge&logo=amazon-aws&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/vercel-1b242d?style=for-the-badge&logo=vercel&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/jira-1b242d?style=for-the-badge&logo=jira&logoColor=f5f5f5"/>
+      <img src="https://img.shields.io/badge/notion-1b242d?style=for-the-badge&logo=notion&logoColor=f5f5f5"/>
+    <img src="https://img.shields.io/badge/visualstudiocode-1b242d?style=for-the-badge&logo=visualstudiocode&logoColor=f5f5f5"/>
+    <img src="https://img.shields.io/badge/iOS-1b242d?style=for-the-badge&logo=iOS&logoColor=f5f5f5"/>
+
+  </p>
+<br />
+<p>
+  <h4>📬  Contact</h4>
+    <p align = "left">
+      <a style="text-decoration: none;" href='https://www.linkedin.com/in/jamesryanco/'>
+        <img src="https://img.shields.io/badge/LinkedIn-1b242d?style=for-the-badge&logo=linkedin&logoColor=f5f5f5" style="height : auto; margin-left : 10px; margin-right : 10px; text-decoration: none;"/>
+      </a>
+      <a style="text-decoration: none;" href="mailto:hello@jamesryan.co">
+        <img src="https://img.shields.io/badge/Gmail-1b242d?style=for-the-badge&logo=gmail&logoColor=f5f5f5" style="height : auto; margin-left : 10px; margin-right : 10px; text-decoration: none;"/>
+      </a>
+    </p>
+</p>
+
+<hr />
+
+<!-- k https://hendrasob.github.io/badges/ -->

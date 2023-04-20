@@ -25,7 +25,7 @@
       <img src="https://img.shields.io/badge/jira-1b242d?style=for-the-badge&logo=jira&logoColor=f5f5f5"/>
       <img src="https://img.shields.io/badge/notion-1b242d?style=for-the-badge&logo=notion&logoColor=f5f5f5"/>
     <img src="https://img.shields.io/badge/visualstudiocode-1b242d?style=for-the-badge&logo=visualstudiocode&logoColor=f5f5f5"/>
-    <img src="https://img.shields.io/badge/iOS-1b242d?style=for-the-badge&logo=iOS&logoColor=f5f5f5"/>
+    <img src="https://img.shields.io/badge/macos-1b242d?style=for-the-badge&logo=macos&logoColor=f5f5f5"/>
 
   </p>
 <br />

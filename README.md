@@ -2,7 +2,7 @@
 <h4>📟  Intro</h4>
 <p>Hi, my name is James</p>
 <p>I am a Software Engineer and Designer based in Glasgow</p>
-<div>My interests lie in the intersection of technology and product development, where I am able to focus on both design and development. A passion for aesthetics always drives my desire to build beautiful interfaces, websites and/or experiences.</div>
+<div>My interests lie at the intersection of technology and product development, where I am able to focus on both design and development. A passion for aesthetics always drives my desire to build beautiful interfaces, websites and/or experiences. Alongside the enjoyment of "the flow" when finding myself more within the realms of programming as compared to web design.</div>
 
 <br />
 

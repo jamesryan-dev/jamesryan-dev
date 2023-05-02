@@ -30,7 +30,7 @@
   </p>
 <br />
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamesryan-dev&show_icons=true&theme=transparent&border_color=1b242d&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jamesryan-dev&show_icons=true&theme=transparent&text_color=1b242d&border_color=1b242d&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
   </div>
   <br />
 <p>

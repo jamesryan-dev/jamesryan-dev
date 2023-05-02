@@ -42,7 +42,8 @@
 </p>
 
 <div align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesryan-dev&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&text_color=9f9f9f&bg_color=00000000&hide_border=true&hide_title=true&count_private=true&include_all_commits&enable_animations=true" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesryan-dev&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&text_color=9f9f9f&bg_color=00000000&hide_border=true&hide_title=true&count_private=true&include_all_commits&enable_animations=true" /> -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesryan-dev&show_icons=true&theme=transparent)
 </div>
 
 <hr />

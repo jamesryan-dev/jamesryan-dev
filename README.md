@@ -41,6 +41,12 @@
     </p>
 </p>
 
+<div align="left">
+      <a href="https://github.com/jameskmonger">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesryan-dev&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&text_color=9f9f9f&bg_color=00000000&hide_border=true&hide_title=true&count_private=true&include_all_commits&enable_animations=true" />
+      </a>
+    </div>
+
 <hr />
 
 <!-- k https://hendrasob.github.io/badges/ -->

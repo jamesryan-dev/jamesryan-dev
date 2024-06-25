@@ -1,6 +1,6 @@
 <hr />
 <h4>📟  Intro</h4>
-<p>Hi, my name is James and I'm also known as Jimmy.</p>
+<p>Hi, I'm James..</p>
 <p>I am a Software Engineer and Designer based in Glasgow.</p>
 <div>My interests lie at the intersection of technology and product development, where I am able to focus on both design and development. A passion for aesthetics always drives my desire to build beautiful interfaces, websites and/or experiences. Alongside the enjoyment of "the flow" when finding myself more within the realms of programming as compared to web design.</div>
 
@@ -29,9 +29,7 @@
 
   </p>
 <br />
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamesryan-dev&show_icons=true&theme=transparent&title_color=467294&text_color=f5f5f5&icon_color=467294&border_color=1b242d&hide_title=true&text_bold=false&count_private=true&include_all_commits=true&enable_animations=true&range=all_time" />
-  </div>
+
   <br />
 <p>
   <h4>📬  Contact</h4>
